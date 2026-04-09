@@ -2,7 +2,7 @@ package DSA_JAVA;
 
 import java.util.Arrays;
 
-public class Array {
+public class ArrayQn {
     public static void main(String[] args) {
         System.out.println("1929. Concatenation of Array");
         System.out.println(Arrays.toString(getConcatenation(new int[]{1, 2, 1})));
