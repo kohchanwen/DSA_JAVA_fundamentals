@@ -23,6 +23,7 @@ public class QueueQn {
 
     }
 
+    // Practice to create queue using Singly Linked
     public static class MyQueue {
         ListNode left;  //Left is the front of queue
         ListNode right;
